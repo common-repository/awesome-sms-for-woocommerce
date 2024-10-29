@@ -1,0 +1,231 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome SMS for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-27 12:43+0000\n"
+"POT-Revision-Date: Mon Aug 06 2018 18:31:56 GMT+0530 (IST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2"
+
+#. Name of the plugin
+msgid "Awesome SMS for Woocommerce"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.togidata.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send SMS messages to your customers i Denmark using this awesome plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "TOGI Data"
+msgstr ""
+
+#: ../init.php:45
+msgid "No SMS credit available!"
+msgstr ""
+
+#: ../admin/functions.php:45
+msgid "SMS Credit activated"
+msgstr ""
+
+#: ../admin/functions.php:48
+msgid "Already activated code"
+msgstr ""
+
+#: ../admin/functions.php:51
+msgid "Error : Invalid code"
+msgstr ""
+
+#: ../admin/functions.php:65
+msgid "Please enter activation code"
+msgstr ""
+
+#: ../admin/functions.php:72
+msgid "Invalid code"
+msgstr ""
+
+#: ../admin/admin_settings.php:6
+msgid "SMS Settings"
+msgstr ""
+
+#: ../admin/admin_settings.php:53 ../admin/templates/sms_settings.php:2
+msgid "SMS Sending Settings"
+msgstr ""
+
+#: ../admin/admin_settings.php:80 ../admin/templates/sms_templates.php:1
+msgid "SMS Templates"
+msgstr ""
+
+#: ../admin/admin_settings.php:100
+msgid "Order confirmation :"
+msgstr ""
+
+#: ../admin/admin_settings.php:103 ../admin/admin_settings.php:115 ..
+#: /admin/admin_settings.php:127 ../admin/admin_settings.php:139 ..
+#: /admin/admin_settings.php:151 ../admin/admin_settings.php:163
+msgid "Tags "
+msgstr ""
+
+#: ../admin/admin_settings.php:112
+msgid "Order status change : <br> Pending"
+msgstr ""
+
+#: ../admin/admin_settings.php:124
+msgid "Order status change : <br> On-hold"
+msgstr ""
+
+#: ../admin/admin_settings.php:136
+msgid "Order status change : <br> Processing"
+msgstr ""
+
+#: ../admin/admin_settings.php:148
+msgid "Order status change : <br> Finished"
+msgstr ""
+
+#: ../admin/admin_settings.php:160
+msgid "Order status change : <br> Cancelled"
+msgstr ""
+
+#: ../admin/admin_settings.php:174
+msgid "Add SMS credit"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:2
+msgid "Add SMS Credits"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:6
+msgid "Enter activation code"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:9
+msgid " enter the 6 digit alphanumeric code received by email "
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:15
+msgid "If you have not already purchase SMS credit, you can do so "
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:16
+msgid "here."
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:21 ../admin/templates/sms_settings.php:
+#: 26 ../admin/templates/sms_settings.php:45 ../admin/templates/sms_settings.php:
+#: 61 ../admin/templates/sms_settings.php:77 ../admin/templates/sms_settings.php:
+#: 93 ../admin/templates/sms_settings.php:109
+msgid "Activate"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:25
+msgid "Active SMS Credits"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:62
+msgid "SMS Product"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:63
+msgid "Total Credit"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:64
+msgid "Used Credit"
+msgstr ""
+
+#: ../admin/templates/add_sms_credit.php:65
+msgid "Balance Credit"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:9
+msgid "SMS API Server URL"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:13
+msgid "Enter API Server URL here"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:14
+msgid ""
+"This field shows the site where you purchased the SMS. You should not change "
+"the content of this field."
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:20
+msgid "Send SMS to customers with an order confirmation"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:31 ../admin/templates/sms_settings.php:50 .
+#: ./admin/templates/sms_settings.php:66 ../admin/templates/sms_settings.php:82 ..
+#: /admin/templates/sms_settings.php:98 ../admin/templates/sms_settings.php:114
+msgid "Deactivate"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:36
+msgid "Send SMS to customers when the order status has changed to :"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:39
+msgid "Pending"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:55
+msgid "On hold"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:71
+msgid "Processing"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:87
+msgid "Finished"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:103
+msgid "Cancelled"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:121
+msgid "Notifications"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:125
+msgid "Notify admin when there is "
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:127
+msgid "credit left in balance"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:132
+msgid "Notify admin by:"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:137
+msgid "SMS"
+msgstr ""
+
+#: ../admin/templates/sms_settings.php:141
+msgid "E-mail"
+msgstr ""

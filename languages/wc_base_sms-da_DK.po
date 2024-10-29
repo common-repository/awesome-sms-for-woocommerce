@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome SMS for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-27 12:43+0000\n"
+"PO-Revision-Date: 2018-08-28 08:02+0000\n"
+"Last-Translator: Webmaster Togi Data ApS <webmaster@togidata.dk>\n"
+"Language-Team: Dansk\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: da_DK"
+
+#: ../admin/templates/sms_settings.php:121
+msgid "Notifications"
+msgstr "Underretninger"
+
+#: ../admin/templates/sms_settings.php:125
+msgid "Notify admin when there is "
+msgstr "Underret admin, når der er"
+
+#: ../admin/templates/sms_settings.php:127
+msgid "credit left in balance"
+msgstr "sms tilbage på kontoen"
+
+#: ../admin/templates/sms_settings.php:132
+msgid "Notify admin by:"
+msgstr "Underret admin via:"
+
+#: ../admin/templates/sms_settings.php:137
+msgid "SMS"
+msgstr "SMS"
+
+#: ../admin/templates/sms_settings.php:141
+msgid "E-mail"
+msgstr "E-mail"
+
+#. Name of the plugin
+msgid "Awesome SMS for Woocommerce"
+msgstr "Awesome SMS til Woocommerce"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.togidata.com"
+msgstr "https://togidata.dk"
+
+#. Description of the plugin
+msgid "Send SMS messages to your customers i Denmark using this awesome plugin"
+msgstr "Send SMS-beskeder til dine kunder i Danmark med dette smarte plugin"
+
+#. Author of the plugin
+msgid "TOGI Data"
+msgstr "TOGI Data"
+
+#: ../init.php:45
+msgid "No SMS credit available!"
+msgstr "Der er ingen SMS på kontoen"
+
+#: ../admin/functions.php:45
+msgid "SMS Credit activated"
+msgstr "Aktiveret"
+
+#: ../admin/functions.php:48
+msgid "Already activated code"
+msgstr "Denne kode er allerede aktiveret og kan ikke benyttes igen"
+
+#: ../admin/functions.php:51
+msgid "Error : Invalid code"
+msgstr "Fejl - koden er forkert"
+
+#: ../admin/functions.php:65
+msgid "Please enter activation code"
+msgstr "Skriv venligst aktiveringskode"
+
+#: ../admin/functions.php:72
+msgid "Invalid code"
+msgstr "Koden er ikke korrekt"
+
+#: ../admin/admin_settings.php:6
+msgid "SMS Settings"
+msgstr "SMS-Indstillinger"
+
+#: ../admin/admin_settings.php:53 ../admin/templates/sms_settings.php:2
+msgid "SMS Sending Settings"
+msgstr "SMS-Indstillinger"
+
+#: ../admin/admin_settings.php:80 ../admin/templates/sms_templates.php:1
+msgid "SMS Templates"
+msgstr "SMS-skabeloner"
+
+#: ../admin/admin_settings.php:100
+msgid "Order confirmation :"
+msgstr "Ordrebekræftelse:"
+
+#: ../admin/admin_settings.php:103 ../admin/admin_settings.php:115 ..
+#: admin/admin_settings.php:127 ../admin/admin_settings.php:139 ..
+#: admin/admin_settings.php:151 ../admin/admin_settings.php:163
+msgid "Tags "
+msgstr "Tags"
+
+#: ../admin/admin_settings.php:112
+msgid "Order status change : <br> Pending"
+msgstr "Ordrestatus ændret til: Afventer"
+
+#: ../admin/admin_settings.php:124
+msgid "Order status change : <br> On-hold"
+msgstr "Ordrestatus ændret til: På hold"
+
+#: ../admin/admin_settings.php:136
+msgid "Order status change : <br> Processing"
+msgstr "Ordrestatus ændret til: Behandler"
+
+#: ../admin/admin_settings.php:148
+msgid "Order status change : <br> Finished"
+msgstr "Ordrestatus ændret til: Gennemført"
+
+#: ../admin/admin_settings.php:160
+msgid "Order status change : <br> Cancelled"
+msgstr "Ordrestatus ændret til: Annulleret"
+
+#: ../admin/admin_settings.php:174
+msgid "Add SMS credit"
+msgstr "Tilføj flere SMS"
+
+#: ../admin/templates/add_sms_credit.php:2
+msgid "Add SMS Credits"
+msgstr "Tilføj SMS"
+
+#: ../admin/templates/add_sms_credit.php:6
+msgid "Enter activation code"
+msgstr "Indtast aktiveringskode"
+
+#: ../admin/templates/add_sms_credit.php:9
+msgid " enter the 6 digit alphanumeric code received by email "
+msgstr "Skriv den 6-cifrede kode, som du har modtaget på e-mail"
+
+#: ../admin/templates/add_sms_credit.php:15
+msgid "If you have not already purchase SMS credit, you can do so "
+msgstr "Hvis du ikke allerede har optanket SMS kan du gøre det"
+
+#: ../admin/templates/add_sms_credit.php:16
+msgid "here."
+msgstr "her."
+
+#: ../admin/templates/add_sms_credit.php:21
+#: ../admin/templates/sms_settings.php: 26
+#: ../admin/templates/sms_settings.php:45 ../admin/templates/sms_settings.php:
+#: 61 ../admin/templates/sms_settings.php:77
+#: ../admin/templates/sms_settings.php: 93
+#: ../admin/templates/sms_settings.php:109
+msgid "Activate"
+msgstr "Aktiver"
+
+#: ../admin/templates/add_sms_credit.php:25
+msgid "Active SMS Credits"
+msgstr "Oversigt over købte og brugte SMS"
+
+#: ../admin/templates/add_sms_credit.php:62
+msgid "SMS Product"
+msgstr "SMS-produkt"
+
+#: ../admin/templates/add_sms_credit.php:63
+msgid "Total Credit"
+msgstr "SMS i alt"
+
+#: ../admin/templates/add_sms_credit.php:64
+msgid "Used Credit"
+msgstr "Brugte SMS"
+
+#: ../admin/templates/add_sms_credit.php:65
+msgid "Balance Credit"
+msgstr "SMS på konto"
+
+#: ../admin/templates/sms_settings.php:9
+msgid "SMS API Server URL"
+msgstr "SMS API Server URL"
+
+#: ../admin/templates/sms_settings.php:13
+msgid "Enter API Server URL here"
+msgstr "Skriv API server-url"
+
+#: ../admin/templates/sms_settings.php:14
+msgid ""
+"This field shows the site where you purchased the SMS. You should not change "
+"the content of this field."
+msgstr ""
+"Dette felt henviser til det site, hvor du har købt dine SMS. Du bør ikke "
+"ændre indholdet i dette felt."
+
+#: ../admin/templates/sms_settings.php:20
+msgid "Send SMS to customers with an order confirmation"
+msgstr "Send SMS til kunden lige når kunden har gennemført en ordre."
+
+#: ../admin/templates/sms_settings.php:31
+#: ../admin/templates/sms_settings.php:50 .
+#: ./admin/templates/sms_settings.php:66 ../admin/templates/sms_settings.php:82
+#: .. admin/templates/sms_settings.php:98
+#: ../admin/templates/sms_settings.php:114
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: ../admin/templates/sms_settings.php:36
+msgid "Send SMS to customers when the order status has changed to :"
+msgstr "Send SMS til kunden, når ordrestatus ændres til:"
+
+#: ../admin/templates/sms_settings.php:39
+msgid "Pending"
+msgstr "Afventer"
+
+#: ../admin/templates/sms_settings.php:55
+msgid "On hold"
+msgstr "På hold"
+
+#: ../admin/templates/sms_settings.php:71
+msgid "Processing"
+msgstr "Behandler"
+
+#: ../admin/templates/sms_settings.php:87
+msgid "Finished"
+msgstr "Gennemført"
+
+#: ../admin/templates/sms_settings.php:103
+msgid "Cancelled"
+msgstr "Aflyst"
